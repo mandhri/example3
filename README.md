@@ -15,4 +15,4 @@ rstudio version 1.2.1335 and R
 r version 3.6.3
 
 # Credits
-mandhri
+mandhri and rushini
